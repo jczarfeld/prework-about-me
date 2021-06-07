@@ -1,0 +1,40 @@
+p.red {
+    color: red
+}
+p.blue {
+    color: blue
+}
+p.green {
+    color:green
+}
+#four {
+    text-align: center;
+}
+#five {
+    font-size: large;
+}
+#six {
+    font-size: small
+}
+#seven {
+    font-weight: bold
+}
+#eight {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#nine {
+    color: orange;
+    font-size:large;
+    font-weight:bold
+}
+p.styledFont {
+    color: purple;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align:right;
+    border-style:dotted;
+}
+body{ background-color: yellow;}
+#styledImage {
+    border-style:groove;
+    box-sizing: border-box;
+}
